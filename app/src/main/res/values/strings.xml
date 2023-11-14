@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weatherForecast</string>
+    <string name="about_app">Weather App V1</string>
+    <string name="api_used">http://www.naver.com</string>
+</resources>
